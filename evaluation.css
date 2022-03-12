@@ -1,0 +1,202 @@
+#element{
+    background-color:  #d35649;
+    display: flex;
+    flex-direction: row;
+    color: aliceblue;
+    height: 50px;
+}
+.element1{
+left: 50px;
+right:0px;
+top:30px;
+bottom:15px ;
+font-size: large;
+}
+.element2{
+position: absolute;
+left: 1000px;
+right: 0px;
+top: 10px;
+bottom:20px ;
+font-size: small;
+display: flex;
+    justify-content: space-around;
+}
+.partie{
+    background-image: url(photo.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ivents{
+    position: absolute;
+    left: 350px;
+    right: 250px;
+    color:white;
+    font-weight: bold;
+}
+.recherche{
+    position: absolute;
+    left: 450px;
+    right: 400px;
+    top:110px;
+    background-color: white;
+    opacity: 85%;
+    display: flex;
+    height: 100px;
+    width: 500px;
+}
+.mot{
+position: absolute;
+left: 150px;
+    right: 100px;
+}
+.jerecherche{
+   background-color: white;
+   width: 80%;
+    position: absolute;
+   left:2%;
+   right:30% ;
+   top:30%  
+}
+.oui{
+    border-radius: 2px;
+    background-color: #d35649;
+    color: white;
+    width: 12%;
+    height: 21%;
+     position: absolute;
+    left:81%;
+    right:30% ;
+    top:30%  
+}
+.How{
+    position: absolute;
+    left: 330px;
+    right: 150px;
+    color:black;
+    top:110px;
+    background-color: white;
+    opacity: 85%;
+    height: 20px;
+    width: 85px;
+    font-size: x-small;
+}
+.work{
+    position: absolute;
+    left: 500px;
+    right: 250px;
+    Top:330px;
+    color:#d35649;
+    font-weight: bold;
+
+}
+.container1{
+    position: absolute;
+    Top:400px;
+    left: 50px;
+    font-size: small;
+}
+.container2{
+    position: absolute;
+    Top:500px;
+    left: 50px;
+    font-size: small;
+}
+.a{
+    position: absolute;
+    left: 200px;
+}
+.el1{
+background-color: #d35649;
+color: white;
+position: absolute;
+    Top:600px;
+    height: 20%;
+    width: 100%;
+}
+.el2{
+    background-color:  #98a5a5;
+    color: white;
+    position: absolute;
+        Top:760px;
+        height: 20%;
+        width: 100%;
+}
+.el3{
+    background-color: #509bd7;
+    color: white;
+    position: absolute;
+        Top:925px;
+        height: 20%;
+        width: 100%;
+    }
+    .el4{
+        background-color:black;
+        color: white;
+        position: absolute;
+            Top:1090px;
+            height: 20%;
+            width: 100%;
+    }
+    
+    .about{
+        position: absolute;
+        background-color: black;
+       left:90%;
+    }
+    .search1{
+        background-color:beige;
+        color: #98a5a5;
+        position: absolute;
+            Top:70px;
+            height: 30%;
+            width: 100%;  
+        
+    }
+    .search2{
+        background-color:white;
+        color: #98a5a5;
+        position: absolute;
+            Top:400px;
+            height: 20%;
+            width: 100%;  
+    }
+    .filter{
+        position: absolute;
+        left:70px;
+    }
+    .ab{
+        position: absolute;
+        background-color: black;
+        color: white;
+       left:0%;
+       Top:60%;
+       height: 30%;
+            width: 100%;  
+    }
+    .Te{
+        display: flex;
+        flex-direction: row;
+        color: black;
+        height: 50px;
+
+    }
+
+    /* .sary1{
+        width: 30px;
+    }
+    .sary2{
+        width: 30px;
+    }
+    .sary3{
+        width: 30px;
+    }
+    .sary4{
+        width: 30px;
+    }
+     */
+.element2 img {
+    width: 30px;
+}
